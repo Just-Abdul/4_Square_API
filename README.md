@@ -1,1 +1,1 @@
-# CAP_PROJECT
+# Using Foursquare to explore cities
