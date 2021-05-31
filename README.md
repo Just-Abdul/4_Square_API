@@ -1,1 +1,1 @@
-# Using Foursquare to explore cities
+# Using Foursquare API to explore cities
